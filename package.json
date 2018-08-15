@@ -1,0 +1,13 @@
+{
+  "name": "angular",
+  "version": "1.5.5",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "dependencies": {}
+}
